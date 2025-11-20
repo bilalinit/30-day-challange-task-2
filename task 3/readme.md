@@ -9,4 +9,5 @@ It’s much better at connecting different types of information text, video, aud
 
 # Name any two developer tools introduced with Gemini 3.0.
 1. Antigravity: an agentic AI based IDE with its internal browser to work better in tasks like web development
-2. genUI sdk: it allow the AI to have intractive widges which can make the text based experince more enjoyable
+2. genUI sdk: It allows the AI to have interactive widgets which can make the text based experience more enjoyable
+
